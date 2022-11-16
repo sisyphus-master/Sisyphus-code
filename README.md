@@ -1,4 +1,4 @@
-- 👋 你好，可以叫我Sisyphus，也可以叫我小谦。 
+- 👋 你好，可以叫我Sisyphus。 
 - 👀 我感兴趣的是 'how to be a richman'。
 - 🌱 我现在正在钻研 JavaScript && C++ &&  cocosCreator && Vue3.js。
 - 📫 如何联系我，我的wechat是X99139527。
