@@ -1,6 +1,6 @@
 - 👋 你好，可以叫我Sisyphus。 
 - 👀 我感兴趣的是 'how to be a richman'。
-- 🌱 我现在正在钻研 JavaScript && C++ &&  cocosCreator && Vue3.js。
+- 🌱 我现在正在钻研 JavaScript && C# &&  cocosCreator && Vue3.js && Unity && Three.js。
 - 📫 如何联系我，我的wechat是X99139527。
 - 🏠 我现在定居成都，并着手创业，有兴趣的可以加我一起玩玩。
 
